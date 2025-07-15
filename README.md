@@ -30,7 +30,7 @@ This web-based tool allows users to scroll through and interact with documents u
 ## 📷 Demo
 
 <!-- You can insert a screen recording/GIF or hosted video link -->
-[Click here for live demo](https://your-username.github.io/eye-tracking-reader/)  
+[Click here for live demo](https://vision-lit.vercel.app/) 
 Or check the demo below:
 
 ![Demo GIF](./demo.gif)
