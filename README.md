@@ -1,9 +1,41 @@
-# EyeBook Reader
+# 👁️ Eye Tracking Document Reader
 
-> For CSE155 at the University of California, Merced.
+A smart, hands-free document reader powered by eye-tracking technology!  
+This web-based tool allows users to scroll through and interact with documents using just their eye movements, enhancing accessibility and redefining how we read PDFs.
 
-> Group Members: Athena Siaotong, Intiser Aziz, Winston Lou, John Biton, Andrew Olmos
+![Eye Tracking Preview](./preview.gif) <!-- Optional: replace with your actual demo GIF -->
 
+---
+
+## 📌 Features
+
+- 🔴 Real-time eye tracking using **GazeCloud API**
+- 📄 Upload and read PDF documents seamlessly
+- 👁️ Auto-scroll and cursor follow based on gaze position
+- 🧠 Works directly in browser — no extra hardware required
+- 🎯 Calibration module for better tracking accuracy
+- 🌐 Lightweight and accessible on most modern browsers
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Eye Tracking API:** [GazeCloud API](https://www.gazecloud.com/)
+- **PDF Viewer:** [PDF.js](https://mozilla.github.io/pdf.js/)
+- **Deployment:** GitHub Pages / Netlify (optional)
+
+---
+
+## 📷 Demo
+
+<!-- You can insert a screen recording/GIF or hosted video link -->
+[Click here for live demo](https://your-username.github.io/eye-tracking-reader/)  
+Or check the demo below:
+
+![Demo GIF](./demo.gif)
+
+---
 ## References
 
 - [GazeCloud API Reference](https://gazerecorder.com/gazecloudapi/)
